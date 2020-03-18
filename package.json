@@ -1,0 +1,23 @@
+{
+  "name": "webassembly-boilerplate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stdevelopr/webassembly-boilerplate.git"
+  },
+  "author": "stdevelopr",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stdevelopr/webassembly-boilerplate/issues"
+  },
+  "homepage": "https://github.com/stdevelopr/webassembly-boilerplate#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
