@@ -1,5 +1,5 @@
-- Run:\
-`npm start`
+- Install and run:\
+`npm install && npm start`
 
 WebAssembly code generated using emscripten(https://emscripten.org/) \
 Compile the C code using:\
